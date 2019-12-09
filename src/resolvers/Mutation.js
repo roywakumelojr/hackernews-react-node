@@ -73,4 +73,5 @@ module.exports = {
     signup,
     login,
     post,
+    vote,
 }
